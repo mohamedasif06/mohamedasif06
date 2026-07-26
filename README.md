@@ -1,16 +1,110 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Asif</h1>
+<h3 align="center">B.Tech IT Student | Aspiring Data Analyst | AI & ML Learner</h3>
 
-<!--
-**mohamedasif06/mohamedasif06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Data+Analytics+Enthusiast;Machine+Learning+Learner;Building+Projects+Every+Day" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 3rd Year **B.Tech Information Technology**
+- 📊 Aspiring **Data Analyst**
+- 🤖 Exploring **Machine Learning** and **AI**
+- 🐍 Learning Python, SQL, Excel, Pandas & NumPy
+- 💡 I enjoy solving real-world problems using data
+- 🚀 Currently building projects to strengthen my portfolio
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql" />
+
+</p>
+
+**Also familiar with:**
+
+- Microsoft Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedasif06&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohamedasif06&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedasif06&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 📊 Retail Store Sales Dashboard | Interactive Excel Dashboard using Pivot Tables & Charts |
+| 🐍 Python Data Analysis | Data analysis using Pandas & NumPy *(Coming Soon)* |
+| 📈 SQL Analytics | SQL queries and business insights *(Coming Soon)* |
+| 🤖 Machine Learning Projects | ML models and experiments *(Coming Soon)* |
+
+---
+
+## 📚 Currently Learning
+
+- ✅ Excel
+- ✅ Python
+- ✅ Pandas
+- ✅ NumPy
+- 🔄 SQL
+- 🔄 Power BI
+- 🔄 Machine Learning
+- 🔄 Agentic AI
+
+---
+
+## 🎯 Goals for 2026
+
+- ✅ Build 10+ Data Analytics Projects
+- ✅ Master SQL
+- ✅ Learn Power BI
+- ✅ Learn Machine Learning
+- ✅ Solve 300+ LeetCode Problems
+- ✅ Secure a Data Analyst Internship
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: *www.linkedin.com/in/mohamedasifar*
+- 📧 Email: *mohamedasif3417@gmail.com*
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mohamedasif06&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ "Turning Data into Insights, and Ideas into Projects."
+</h3>
