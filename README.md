@@ -45,16 +45,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedasif06&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description |
