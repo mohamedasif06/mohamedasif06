@@ -14,7 +14,8 @@
 - 🤖 Exploring **Machine Learning** and **AI**
 - 🐍 Learning Python, SQL, Excel, Pandas & NumPy
 - 💡 I enjoy solving real-world problems using data
-- 🚀 Currently building projects to strengthen my portfolio
+- 🚀 Building end-to-end Data Analytics projects using Python
+- 📺 Completed a Netflix Data Analysis project with an interactive dashboard
 
 ---
 
@@ -26,13 +27,14 @@
 
 </p>
 
-**Also familiar with:**
+**Libraries & Tools**
 
 - Microsoft Excel
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
+- Git
 
 ---
 
@@ -50,9 +52,29 @@
 | Project | Description |
 |----------|-------------|
 | 📊 Retail Store Sales Dashboard | Interactive Excel Dashboard using Pivot Tables & Charts |
-| 🐍 Python Data Analysis | Data analysis using Pandas & NumPy *(Coming Soon)* |
+| 📺 Netflix Data Analysis | Python, Pandas, Matplotlib, Seaborn | Performed exploratory data analysis on Netflix titles and built a professional dashboard with business insights. |
 | 📈 SQL Analytics | SQL queries and business insights *(Coming Soon)* |
 | 🤖 Machine Learning Projects | ML models and experiments *(Coming Soon)* |
+
+---
+
+## 🌟 Latest Project
+
+### 📺 Netflix Data Analysis
+
+✔ Cleaned and analyzed 7,900+ Netflix titles
+
+✔ Explored:
+- Movies vs TV Shows
+- Top Genres
+- Top Countries
+- Ratings Distribution
+- Titles Added Per Year
+- Titles Added Per Month
+- Movie Duration Analysis
+
+📂 Repository:
+https://github.com/mohamedasif06/netflix-data-analysis
 
 ---
 
