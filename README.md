@@ -74,7 +74,7 @@
 - Movie Duration Analysis
 
 📂 Repository:
-https://github.com/mohamedasif06/netflix-data-analysis
+[https://github.com/mohamedasif06/netflix-data-analysis](https://github.com/mohamedasif06/Netflix-Data-Analysis)
 
 ---
 
@@ -84,6 +84,8 @@ https://github.com/mohamedasif06/netflix-data-analysis
 - ✅ Python
 - ✅ Pandas
 - ✅ NumPy
+- ✅ Matplotlib
+- ✅ Seaborn
 - 🔄 SQL
 - 🔄 Power BI
 - 🔄 Machine Learning
