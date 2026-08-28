@@ -132,10 +132,8 @@ I'm actively improving my problem-solving and SQL skills through LeetCode.
 
 ---
 
-## 📈 My GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedasif06&theme=tokyo-night&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/mohamedasif06/mohamedasif06/output/activity-graph.svg" />
 </p>
 
 ---
