@@ -118,8 +118,8 @@ I'm actively improving my problem-solving and SQL skills through LeetCode.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedasif06&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedasif06&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
+  <img src="./profile/stats.svg" height="180"/>
+  <img src="./profile/top-langs.svg" height="180"/>
 </p>
 
 ---
