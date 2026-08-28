@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="#252B3A"/>
+  <!-- Power BI-style yellow/orange bars -->
+  <rect x="17" y="30" width="7" height="18" rx="1.5" fill="#F2C811"/>
+  <rect x="28.5" y="22" width="7" height="26" rx="1.5" fill="#F2C811"/>
+  <rect x="40" y="14" width="7" height="34" rx="1.5" fill="#F2C811"/>
+  <!-- subtle connecting shape -->
+  <path d="M18 27h6l17 17v4H35L18 31z" fill="#F2C811" opacity=".9"/>
+</svg>
