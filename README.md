@@ -30,6 +30,9 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,java,git,github,vscode" />
+  <img src="./profile/powerbi.svg" width="48" height="48" alt="Power BI" />
+</p>
+  
 </p>
 
 ### Data Analytics
