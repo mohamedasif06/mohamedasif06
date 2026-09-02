@@ -96,7 +96,7 @@ I'm actively improving my problem-solving and SQL skills through LeetCode.
 
 ### 🎯 Current Progress
 
-- 🧩 **35+ LeetCode problems solved**
+- 🧩 **60+ LeetCode problems solved**
 - 🗃️ Practicing SQL problems
 - 🐍 Practicing Python problems
 - 📚 Working toward stronger DSA fundamentals
