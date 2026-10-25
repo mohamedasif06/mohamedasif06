@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Mohamed Asif AR&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 157, Total Commits  (last year) : 161, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
+        <title id="titleId">Mohamed Asif AR&#39;s GitHub Stats, Rank: B</title>
+        <desc id="descId">Total Stars Earned: 157, Total Commits  (last year) : 163, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 157.27260780342402;
+        stroke-dashoffset: 156.8487991359688;
       }
     }
   
@@ -150,7 +150,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B-
+          B
         </text>
       
         </g>
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >161</text>
+      >163</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
